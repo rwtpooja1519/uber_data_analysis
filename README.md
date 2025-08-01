@@ -18,7 +18,7 @@ This project analyzes **104,000 Uber rides** from June 2024 to uncover insights 
 
 ## 👩‍💻 About Me
 
-Hi! I'm **Pooja**, an aspiring **Data Analyst** with a passion for solving business problems using data.  
-This project is part of my growing portfolio, where I focus on delivering insights through tools like Excel, SQL, and Power BI.
+I'm a passionate **Data Analyst** actively looking for new opportunities in the field of **Data & Business Analysis**. Available for **immediate joining**.
+---
 
 Feel free to connect or check out more of my work!
